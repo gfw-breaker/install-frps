@@ -1,9 +1,10 @@
-# install-frps
-一键自动安装frp
+### 一键自动安装frp服务（CentOS7）
+
+#### 脚本：
+执行前可以按需修改 frp_password 和 frp_token 变量
 
 ```
 #!/bin/bash
-# author: gfw-breaker
 
 frp_password=admin
 frp_token=123456
