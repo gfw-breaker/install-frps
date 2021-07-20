@@ -20,4 +20,5 @@ frp_token=$frp_token
 EOF
 
 bash install.sh
+bash install-bbr.sh
 
